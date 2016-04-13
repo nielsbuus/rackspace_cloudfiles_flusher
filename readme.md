@@ -35,3 +35,8 @@ Lean back and enjoy the show.
 ## Performance
 
 I have only used it once and was able to clear a bucket with 150.000 files in about an hour.
+
+
+## Alternatives
+
+If you prefer to use Python, there is also a tool called [turbolift](https://community.rackspace.com/products/f/25/t/1796), which does the same thing - and maybe faster, but with no progress output.
