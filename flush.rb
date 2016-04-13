@@ -57,7 +57,7 @@ worker_count.times.map do
       puts "Could not delete: #{file.key} due to: #{e}"
     end
   end
-end.map(&:join)
+end.each(&:join)
 
 
 
