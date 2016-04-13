@@ -1,0 +1,10 @@
+Config = {
+  credentials: {
+    provider: "Rackspace",
+    rackspace_username: "rackspace_username_goes_here",
+    rackspace_api_key: "e7ecd0957e1463615ad28e669f3bbf22"
+    rackspace_auth_url: "https://lon.identity.api.rackspacecloud.com/v2.0",
+    rackspace_region: "lon"
+  },
+  bucket_to_flush: 'unwanted_bucket'
+}
