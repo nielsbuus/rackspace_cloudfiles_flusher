@@ -8,7 +8,7 @@ It's still going to take a while to delete hundreds of thousands of files, but i
 
 It relies on the Fog library and it will use a thread pool to speed things up.
 
-Before you can start flushing with `flush.rb`, you will need to define a `config.rb` file with your credentials and the bucket you want to clear out.
+Before you can start flushing with `flush.rb`, you will need to define a `config.json` file with your credentials and the buckets you want to clear out.
 
 After doing that, it's as easy as
 
