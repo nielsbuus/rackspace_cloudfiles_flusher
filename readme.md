@@ -1,6 +1,6 @@
 # Easily empty or delete buckets/containers from Rackspace Cloudfiles
 
-Rackspace doesn't have any operation in their web interaface to empty a container, but instead they force you to delete one file at a time or resort to third party tools. This is a questionable position to take, considering that you have to pay for every byte of data you store there, basically making it difficult to stop paying them for hosting files you no longer want hosted.
+Before you can delete a container at Rackspace, it needs to be empty and Rackspace doesn't have any operation in their web interface to empty a whole container. Instead they force you to delete one file at a time or resort to third party tools. This is a questionable position to take, considering that you have to pay for every byte of data you store there, basically making it difficult to stop paying them for hosting files you no longer want hosted.
 
 Anyway, here you get the tool that Rackspace should be offering out of the box.
 
